@@ -1,0 +1,10 @@
+D:\SOFTWARE\pruebaChuiSA\pruebaChuiSA\bin\pruebaChuiSA.dll
+D:\SOFTWARE\pruebaChuiSA\pruebaChuiSA\bin\pruebaChuiSA.pdb
+D:\SOFTWARE\pruebaChuiSA\pruebaChuiSA\obj\Debug\pruebaChuiSA.csprojResolveAssemblyReference.cache
+D:\SOFTWARE\pruebaChuiSA\pruebaChuiSA\obj\Debug\pruebaChuiSA.dll
+D:\SOFTWARE\pruebaChuiSA\pruebaChuiSA\obj\Debug\pruebaChuiSA.pdb
+C:\Users\Chui\Desktop\KushkiPrueba_Franklin Chuisaca\pruebaChuiSA\bin\pruebaChuiSA.dll
+C:\Users\Chui\Desktop\KushkiPrueba_Franklin Chuisaca\pruebaChuiSA\bin\pruebaChuiSA.pdb
+C:\Users\Chui\Desktop\KushkiPrueba_Franklin Chuisaca\pruebaChuiSA\obj\Debug\pruebaChuiSA.csprojResolveAssemblyReference.cache
+C:\Users\Chui\Desktop\KushkiPrueba_Franklin Chuisaca\pruebaChuiSA\obj\Debug\pruebaChuiSA.dll
+C:\Users\Chui\Desktop\KushkiPrueba_Franklin Chuisaca\pruebaChuiSA\obj\Debug\pruebaChuiSA.pdb

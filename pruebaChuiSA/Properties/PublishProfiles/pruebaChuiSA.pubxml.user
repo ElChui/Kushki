@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/pruebaChuiSA.dll">
+      <publishTime>06/06/2022 18:50:11</publishTime>
+    </File>
+    <File Include="bin/pruebaChuiSA.pdb">
+      <publishTime>06/06/2022 18:50:11</publishTime>
+    </File>
+    <File Include="getToken.aspx">
+      <publishTime>06/06/2022 17:17:41</publishTime>
+    </File>
+    <File Include="getTransactionsList.aspx">
+      <publishTime>06/06/2022 17:32:56</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>06/05/2022 20:47:49</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.css.map">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.min.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.standalone.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.standalone.css.map">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.standalone.min.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.css.map">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.min.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.standalone.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.standalone.css.map">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.standalone.min.css">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/js/bootstrap-datepicker.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/js/bootstrap-datepicker.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker-en-CA.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ar-tn.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ar.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.az.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.bg.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.bm.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.bn.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.br.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.bs.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ca.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.cs.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.cy.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.da.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.de.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.el.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-AU.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-CA.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-GB.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-IE.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-NZ.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.en-ZA.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.eo.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.es.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.et.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.eu.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.fa.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.fi.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.fo.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.fr-CH.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.fr.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.gl.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.he.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.hi.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.hr.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.hu.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.hy.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.id.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.is.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.it-CH.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.it.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ja.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ka.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.kh.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.kk.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.km.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ko.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.kr.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.lt.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.lv.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.me.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.mk.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.mn.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ms.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.nl-BE.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.nl.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.no.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.oc.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.pl.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.pt-BR.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.pt.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ro.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.rs-latin.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.rs.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ru.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.si.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sk.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sl.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sq.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sr-latin.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sr.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sv.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.sw.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.ta.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.tg.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.th.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.tk.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.tr.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.uk.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.uz-cyrl.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.uz-latn.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.vi.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.zh-CN.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="libs/bootstrap-datepicker-1.9.0-dist/locales/bootstrap-datepicker.zh-TW.min.js">
+      <publishTime>05/20/2019 19:26:50</publishTime>
+    </File>
+    <File Include="Main.Master">
+      <publishTime>06/06/2022 17:56:00</publishTime>
+    </File>
+    <File Include="pago.aspx">
+      <publishTime>06/06/2022 18:58:43</publishTime>
+    </File>
+    <File Include="voidTransaction.aspx">
+      <publishTime>06/06/2022 16:26:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2022 18:58:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
